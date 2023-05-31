@@ -34,9 +34,9 @@ By deafult, backend server is opened to portal 5000.
 
 ## Usage
 Once the website is running, it's the time to explore and chat with the AI assistant. 
-    ```
-    ![alt text](relative%20assets/usage.png?raw=true "Screenshot")
-    ```
+    
+![alt text](relative%20assets/usage.png?raw=true "Screenshot")
+    
 After clicking the "talk to assistant" button, type in anything you want to ask Jarvis in the input box and wait couple of seconds for their answer.
 
 ## Machine Learning Features
