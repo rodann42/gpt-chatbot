@@ -32,6 +32,9 @@ yarn start-api
 ```
 By deafult, backend server is opened to portal 5000.
 
+### Note
+To run the word embedding feature at backend properly, you have to create an OpenAI API on your own from https://platform.openai.com/account/api-keys and paste that api key to ```/chatbot/.evn```.
+
 ## Usage
 Once the website is running, it's the time to explore and chat with the AI assistant. 
     
