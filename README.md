@@ -17,9 +17,10 @@ The frontend server and backend server need to be run seperately.
 To run frontend server:
 ```
 cd react-flask-app
+yarn install
 yarn start
 ```
-By default, frontend server is running at portal 3000.
+By default, frontend server is opened to portal 3000.
 
 The backend server needs to be run in a python virtual enviornment, so to run backend server:
 ```
@@ -29,11 +30,12 @@ source env/bin/activate
 pip install -r requirements.txt
 yarn start-api
 ```
+By deafult, backend server is opened to portal 5000.
 
 ## Usage
 Once the website is running, it's the time to explore and chat with the AI assistant. 
     ```md
-    ![alt text](./assets/usage.png)
+    ![alt text](https://github.com/rodann42/gpt-chatbot/blob/master/assets/usage.png)
     ```
 After clicking the "talk to assistant" button, type in anything you want to ask Jarvis in the input box and wait couple of seconds for their answer.
 
