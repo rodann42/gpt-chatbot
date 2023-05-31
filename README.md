@@ -33,7 +33,7 @@ yarn start-api
 ## Usage
 Once the website is running, it's the time to explore and chat with the AI assistant. 
     ```md
-    ![alt text](assets/usage.png)
+    ![alt text](./assets/usage.png)
     ```
 After clicking the "talk to assistant" button, type in anything you want to ask Jarvis in the input box and wait couple of seconds for their answer.
 
